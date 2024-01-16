@@ -1,4 +1,4 @@
-# Open-elective-allocator
+# Open-elective-allotment-system
 This is simple project using data analysis to perform open elective subject allocation in engineering colleges. 
 
 What is open elective subject in engineering ?
