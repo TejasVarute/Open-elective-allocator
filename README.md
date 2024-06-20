@@ -11,6 +11,7 @@ What is open elective subject in engineering ?
 ->  Frist get the student information as follows,
 
    •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
+
    •	A branch and subject file, containing the branches and subjects that are available for open elective.
 
   Allocate subject using following condition,
