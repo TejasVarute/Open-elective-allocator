@@ -34,7 +34,7 @@ This is simple project using data analysis to perform open elective subject allo
 2)	Get student data file from user as student_data.
 3)	Get file of branch and their subject as subject_data.
 4)	Get output location to store output file as op_path.
-5)	Get the seats available per subject from subject_data fie and assign it with each subject in form of dictionary (ex. {‘M1’: 20}).
+5)	Get the seats available per subject from subject_data fie and assign it with each subject in form of dictionary (ex. {‘Subject_1’: 30} means subject 1 contains 30 seats).
 6)	First, Sort student_data with their last name. Then, sort it with students CGPA.
 7)	In loop,
 •	Check if any seat available for student choice subject.
