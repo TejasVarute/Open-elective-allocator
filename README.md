@@ -17,6 +17,7 @@ This is simple project using data analysis to perform open elective subject allo
    •	A branch and subject file, containing the branches and subjects that are available for open elective.
 
   Allocate subject using following condition,
+
    •	If a student chooses a subject that is the same as their branch, then the subject is not considered.
 
    •	Students are allocated to their preferred subjects in order of their CGPA.
