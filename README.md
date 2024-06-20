@@ -2,14 +2,15 @@
 This is simple project using data analysis to perform open elective subject allocation in engineering colleges. 
 
 What is open elective subject in engineering ?
+
 -> Open elective subjects are subjects that students from other branches of engineering can choose to study in addition to their core subjects. 
 
    This allows students to broaden their knowledge and skills, and to explore areas of engineering that they are interested in.
 
 **How the allocation works ?**
 ->  Frist get the student information as follows,
-   •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
 
+   •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
    •	A branch and subject file, containing the branches and subjects that are available for open elective.
 
   Allocate subject using following condition,
