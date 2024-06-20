@@ -9,6 +9,7 @@ This is simple project using data analysis to perform open elective subject allo
 
 
 **How the allocation works ?**
+
 ->  Frist get the student information as follows,
 
    •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
@@ -27,7 +28,7 @@ This is simple project using data analysis to perform open elective subject allo
    •	The output of the software is an Excel file containing the names of the students who have been allocated to each subject. This file can then be used to generate the final allotment list.
 
 
-**Algorithm** :
+###**Algorithm** :
 1)	START.
 2)	Get student data file from user as student_data.
 3)	Get file of branch and their subject as subject_data.
