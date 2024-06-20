@@ -5,7 +5,7 @@ What is open elective subject in engineering ?
 -> Open elective subjects are subjects that students from other branches of engineering can choose to study in addition to their core subjects. 
    This allows students to broaden their knowledge and skills, and to explore areas of engineering that they are interested in.
 
-How the allocation works ?
+**How the allocation works ?**
 ->  Frist get the student information as follows,
    •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
    •	A branch and subject file, containing the branches and subjects that are available for open elective.
@@ -17,7 +17,7 @@ How the allocation works ?
    •	If a student is not satisfied with their allocated subject, they can fill out the google form again and their latest choices will be considered.
    •	The output of the software is an Excel file containing the names of the students who have been allocated to each subject. This file can then be used to generate the final allotment list.
 
-Algorithm :
+**Algorithm** :
 1)	START.
 2)	Get student data file from user as student_data.
 3)	Get file of branch and their subject as subject_data.
@@ -37,5 +37,5 @@ Algorithm :
 10)	Save the Excel file at op_path given by user.
 11)	STOP.
 
-Report : https://drive.google.com/file/d/1faFG4BxotW8VPrMLOonId5O1-L4y4E51/view?usp=sharing
+**Report** : https://drive.google.com/file/d/1faFG4BxotW8VPrMLOonId5O1-L4y4E51/view?usp=sharing
 
