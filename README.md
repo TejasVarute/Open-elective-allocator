@@ -38,13 +38,9 @@ This is simple project using data analysis to perform open elective subject allo
 6)	First, Sort student_data with their last name. Then, sort it with students CGPA.
 7)	In loop,
 •	Check if any seat available for student choice subject.
-
 (a)	If yes:
-
 (i)	Book seat for that subject.
-
 (ii)	Decrement one seat in dictionary for that subject.
-
 (b)	Else:
 (i)	Check next choice.
 (ii)	Repeat step a.
