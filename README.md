@@ -37,12 +37,19 @@ This is simple project using data analysis to perform open elective subject allo
 5)	Get the seats available per subject from subject_data fie and assign it with each subject in form of dictionary (ex. {‘M1’: 20}).
 6)	First, Sort student_data with their last name. Then, sort it with students CGPA.
 7)	In loop,
+
 •	Check if any seat available for student choice subject.
+
 (a)	If yes:
+
 (i)	Book seat for that subject.
+
 (ii)	Decrement one seat in dictionary for that subject.
+
 (b)	Else:
+
 (i)	Check next choice.
+
 (ii)	Repeat step a.
 8)	Repeat step 7 until book all the seat of all the subjects.
 9)	Write all students name with their details and allocated subject to an Excel file.
