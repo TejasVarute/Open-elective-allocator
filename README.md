@@ -3,18 +3,24 @@ This is simple project using data analysis to perform open elective subject allo
 
 What is open elective subject in engineering ?
 -> Open elective subjects are subjects that students from other branches of engineering can choose to study in addition to their core subjects. 
+
    This allows students to broaden their knowledge and skills, and to explore areas of engineering that they are interested in.
 
 **How the allocation works ?**
 ->  Frist get the student information as follows,
    •	A student choice file, containing the PRN, name, branch, division, roll number, and subject choices of each student.
+
    •	A branch and subject file, containing the branches and subjects that are available for open elective.
 
   Allocate subject using following condition,
    •	If a student chooses a subject that is the same as their branch, then the subject is not considered.
+
    •	Students are allocated to their preferred subjects in order of their CGPA.
+
    •	If two students have the same CGPA, then they are allocated to their preferred subjects in order of their last name.
+
    •	If a student is not satisfied with their allocated subject, they can fill out the google form again and their latest choices will be considered.
+
    •	The output of the software is an Excel file containing the names of the students who have been allocated to each subject. This file can then be used to generate the final allotment list.
 
 **Algorithm** :
